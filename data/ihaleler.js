@@ -1,6 +1,6 @@
 window.IHALE_VERISI = {
  "sonTarama": {
-  "tarih": "2026-11-19",
+  "tarih": "2026-11-20",
   "eklenen": 0
  },
  "ihaleler": [
